@@ -1,0 +1,2 @@
+requests>=2.32.0
+watchdog>=5.0.0
